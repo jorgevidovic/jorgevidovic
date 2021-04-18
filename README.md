@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Jorge I. Vidovic 👋
+Jorge_I_Vidovic = (Languages: Python, HTML, CSS, JavaScript)
+
+
 
 <!--
 **Jorge-I-Vidovic/Jorge-I-Vidovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
