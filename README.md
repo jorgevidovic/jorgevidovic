@@ -1,5 +1,5 @@
 ### Hi, I'm Jorge I. Vidovic 👋
-Jorge_I_Vidovic = (Languages: Python, HTML, CSS, JavaScript)
+Jorge_I_Vidovic = (Code: Python, HTML, CSS, JavaScript)
 
 
 
