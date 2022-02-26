@@ -1,4 +1,4 @@
-### Hi, I'm Jorge I. Vidovic 👋
+### Hi, I'm Jorge👋
 ```Pyhton
 def Jorge_I_Vidovic():
   ⚡Code: Python, HTML, CSS, JavaScript
