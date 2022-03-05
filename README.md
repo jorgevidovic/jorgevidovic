@@ -1,9 +1,9 @@
 ### Hi, I'm Jorge👋
 ```Pyhton
 def Jorge_I_Vidovic():
-  ⚡Code: Python, HTML, CSS, JavaScript
-  🤔I'm currently learning: Deep learning
-   Goal: being better than yesterday every single day
+  ⚡Code: Python, Java.
+   Interest: Deep learning
+   Progress.
 ```
 
 
