@@ -1,4 +1,4 @@
-### Hi, I'm Jorge👋
+## Hey!
 ```Pyhton
 def Jorge_I_Vidovic():
   ⚡Code: Python, Java.
