@@ -1,9 +1,10 @@
 ## Hey!
-```Pyhton
-def Jorge_I_Vidovic():
+```Java
+public class Jorge_I_Vidovic{
   ⚡Code: Python, Java.
    Interest: Deep learning
    Progress.
+  }
 ```
 
 
