@@ -1,10 +1,12 @@
 ## Hey!
 ```Java
 public class Jorge_I_Vidovic{
-  ⚡Code: Python, Java.
-   Interest: Deep learning
-   Progress.
-  }
+  public static void main(String args[]){
+    String coding = "HTML, CSS, JavaScript, Java, Python,";
+    System.out.println(coding);
+    System.out.println("Progress");
+    }
+ }
 ```
 
 
