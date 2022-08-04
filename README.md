@@ -3,7 +3,7 @@
 public class Jorge_I_Vidovic{
   public static void main(String args[]){
     // My interests:
-    String coding = "HTML + CSS + JavaScript + Java + Python,";
+    String coding = "HTML + CSS + JavaScript + Java + Python";
     System.out.println(coding);
     // What defines mes:
     System.out.println("Progress");
