@@ -8,7 +8,7 @@
 
 ```javascript
 const jorgeVidovic = {
-  code: [Java, JavaScript, HTML, CSS, Python, PHP],
+  code: [Java, PHP, Python, JavaScript, HTML, CSS],
   tools: [WordPress, Open Journal System, Open Monograph Press],
 }
 ```
