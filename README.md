@@ -9,7 +9,7 @@
 ```javascript
 const jorgeVidovic = {
   code: [Java, PHP, Python, JavaScript, HTML, CSS],
-  tools: [WordPress, Open Journal System, Open Monograph Press],
+  tools: [WordPress, Angular],
 }
 ```
 
