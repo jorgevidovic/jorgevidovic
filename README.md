@@ -1,5 +1,5 @@
 # Hi, I'm Jorge Vidovic !
-<p>Software Developer Student 👨‍💻 </p>
+<p>Software Developer 👨‍💻 </p>
 <p>Portfolio: <a href="https://vidovic.systems/">Vidovic Systems 💻</a></p>
 
 ---
@@ -8,8 +8,8 @@
 
 ```javascript
 const jorgeVidovic = {
-  code: [Java, PHP, Python, JavaScript, HTML, CSS],
-  tools: [WordPress, Angular],
+  code: [Java, PHP, Python, SQL, JavaScript, HTML, CSS],
+  tools: [WordPress, Node.js, Angular],
 }
 ```
 
