@@ -1,6 +1,6 @@
 # Hi, I'm Jorge Vidovic !
 <p>Software Developer 👨‍💻 </p>
-<p>Portfolio: <a href="https://vidovic.systems/">Vidovic Systems 💻</a></p>
+<p>Contact: <a href="https://vidovic.systems/">Vidovic Systems 💻</a></p>
 
 ---
 
