@@ -8,7 +8,7 @@
 
 ```javascript
 const jorgeVidovic = {
-  code: [Java, Kotlin, PHP, Python, SQL, JavaScript, HTML, CSS],
+  code: [Java, JavaScript, HTML, CSS,  SQL, Kotlin, PHP, Python],
   tools: [WordPress, Node.js, Angular],
 }
 ```
