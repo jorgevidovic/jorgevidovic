@@ -1,5 +1,5 @@
 # 👨🏻‍🔧 About Me:
-👨🏻‍💻 I’m currently working on systems engineering<br>🔭 Looking to collaborate on software projects<br>🌱 Learning backend developing<br>💬 You can ask me about Java<br>⚡ https://vidovic.systems/
+👨🏻‍💻 I’m currently studying DAM<br>🔭 Looking to collaborate on software projects<br>🌱 Learning backend developing<br>💬 You can ask me about Java<br>⚡ https://vidovic.systems/
 
 
 ## 🌐 Socials:
