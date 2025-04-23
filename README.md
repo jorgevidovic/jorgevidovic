@@ -1,5 +1,5 @@
 # 👨🏻‍🔧 About Me:
-👨🏻‍💻 I’m a software developer, but also like marketing and content creation<br>🔭 Looking to collaborate on software projects<br> 💬 Working with .NET y Laravel<br>⚡ https://jorgevidovic.com/
+👨🏻‍💻 I’m a software developer, but also like marketing and content creation<br>🔭 Looking to collaborate on software projects<br> 💬 Working with .NET and Spring Boot<br>⚡ https://jorgevidovic.com/
 
 
 ## 🌐 Socials:
